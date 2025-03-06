@@ -3,6 +3,8 @@
 ## 💻 Hakkımda
 Ben Nasir, yazılım geliştirme konusunda tutkulu bir yazılımcıyım. Yeni teknolojilere açık ve sürekli öğrenmeye hevesliyim. Yazılım dünyasında kendimi geliştirmek ve katkıda bulunmak için buradayım.
 
+<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 ## 🚀 Yeteneklerim
 - **Programlama Dilleri:** Python, JavaScript, Java
 - **Web Geliştirme:** HTML, CSS, React, Node.js
@@ -24,3 +26,4 @@ Ben Nasir, yazılım geliştirme konusunda tutkulu bir yazılımcıyım. Yeni te
 ---
 
 Siz de yazılım dünyasında benimle beraber gelişmek ve katkıda bulunmak isterseniz, projelerime göz atmayı ve iletişime geçmeyi unutmayın!
+
