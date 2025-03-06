@@ -27,4 +27,3 @@ Ben Nasir, yazılım geliştirme konusunda tutkulu bir yazılımcıyım. Yeni te
 
 Siz de yazılım dünyasında benimle beraber gelişmek ve katkıda bulunmak isterseniz, projelerime göz atmayı ve iletişime geçmeyi unutmayın!
 
-![snake gif](https://github.com/NasirKrmzz/NasirKrmzz/blob/output/github-contribution-grid-snake.gif)
