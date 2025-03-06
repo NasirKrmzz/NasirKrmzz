@@ -5,15 +5,15 @@ Ben Nasir, yazılım geliştirme konusunda tutkulu bir yazılımcıyım. Yeni te
 
 <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## 🚀 Yeteneklerim
-- **Programlama Dilleri:** Python, JavaScript, Java
-- **Web Geliştirme:** HTML, CSS, React, Node.js
-- **Veritabanları:** MySQL, MongoDB
-- **Araçlar ve Çerçeveler:** Git, Docker, Kubernetes
+ 🚀 Yeteneklerim
+- **Programlama Dilleri:C# Python, Java
+- **Web Geliştirme:** HTML, CSS, React,
+- **Veritabanları:** MySQL, M
+- **Araçlar ve Çerçeveler:** Git, 
 
-## 🌱 Öğrenmeye Açığım
+ 🌱 Öğrenmeye Açığım
 - **Yeni Teknolojiler:** Blokzincir, Yapay Zeka, Makine Öğrenimi
-- **Yeni Programlama Dilleri:** Rust, Go
+- **Yeni Programlama Dilleri:** , Go
 - **DevOps Uygulamaları:** CI/CD, Infrastructure as Code
 
 ## 📫 Bana Ulaşın
