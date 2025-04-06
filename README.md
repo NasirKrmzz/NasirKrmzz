@@ -40,5 +40,12 @@ Ben bir yazılım geliştiriciyim ve teknolojiyle uğraşmayı seviyorum. GitHub
 ### Version Control & Deployment
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NasirKrmzz/NasirKrmzz/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
 ## Bana Katıl!
 Eğer projelerimle ilgileniyorsan veya birlikte bir şeyler yapmak istersen, bana ulaşmaktan çekinme!
