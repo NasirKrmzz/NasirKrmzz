@@ -1,29 +1,44 @@
-# Merhaba, Ben Nasır kırmızı ! 👋
+# Merhaba! 👋 Ben NasirKrmzz
 
-## 💻 Hakkımda
-Ben Nasir, yazılım geliştirme konusunda tutkulu bir yazılımcıyım. Yeni teknolojilere açık ve sürekli öğrenmeye hevesliyim. Yazılım dünyasında kendimi geliştirmek ve katkıda bulunmak için buradayım.
+Ben bir yazılım geliştiriciyim ve teknolojiyle uğraşmayı seviyorum. GitHub sayfamda yaptığım çalışmaları bulabilirsin!
 
-<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+## Hakkımda
+- 🌍 Türkiye'de yaşıyorum.
+- 💻 Yazılım geliştirme ve açık kaynak projelerle ilgileniyorum.
+  
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
+  
+## Tech Stack:
 
- 🚀 Yeteneklerim
-- **Programlama Dilleri:C# Python, Java
-- **Web Geliştirme:** HTML, CSS, React,
-- **Veritabanları:** MySQL, M
-- **Araçlar ve Çerçeveler:** Git, 
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C# .NET Core](https://img.shields.io/badge/C%23%20with%20.NET%20Core-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
- 🌱 Öğrenmeye Açığım
-- **Yeni Teknolojiler:** Blokzincir, Yapay Zeka, Makine Öğrenimi
-- **Yeni Programlama Dilleri:** , Go
-- **DevOps Uygulamaları:** CI/CD, Infrastructure as Code
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-## 📫 Bana Ulaşın
-- **E-posta:** [nasirkrmzz@protonmail.com](mailto:email@example.com)
-- **LinkedIn:** [https://www.linkedin.com/in/nas%C4%B1r-k%C4%B1rm%C4%B1z%C4%B1-a9a244313?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BF1sGh3hiSUG%2BixPGvDF0aQ%3D%3D](https://www.linkedin.com/in/nasirkrmzz)
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-## 📈 İstatistiklerim
-![NasirKrmzz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NasirKrmzz&show_icons=true&theme=radical)
+### Tools & Technologies
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
-
-Siz de yazılım dünyasında benimle beraber gelişmek ve katkıda bulunmak isterseniz, projelerime göz atmayı ve iletişime geçmeyi unutmayın!
-
+### Version Control & Deployment
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+## Bana Katıl!
+Eğer projelerimle ilgileniyorsan veya birlikte bir şeyler yapmak istersen, bana ulaşmaktan çekinme!
