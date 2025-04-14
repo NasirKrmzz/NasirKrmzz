@@ -25,9 +25,14 @@ Ben bir yazılım geliştiriciyim ve teknolojiyle uğraşmayı seviyorum. GitHub
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=NasirDev&height=100&section=header&fontSize=40&fontAlignY=30&animation=fadeIn" width="100%" alt="Header Banner"/>
 </a>
 
-[![Siteyi Ziyaret Et](https://img.shields.io/badge/Siteyi%20Ziyaret%20Et-0077B5?style=for-the-badge&logo=chrome&logoColor=white)](https://nasirkrmzz.github.io/NasirDev/)
+<br>
+
+<a href="https://nasirkrmzz.github.io/NasirDev/" target="_blank">
+  <img src="https://img.shields.io/badge/Siteyi%20Ziyaret%20Et-0077B5?style=for-the-badge&logo=chrome&logoColor=white" alt="Siteyi Ziyaret Et"/>
+</a>
+
 </div>
-  
+
 ## Tech Stack:
 
 ### Programming Languages
@@ -62,3 +67,4 @@ Ben bir yazılım geliştiriciyim ve teknolojiyle uğraşmayı seviyorum. GitHub
 
 ## Bana Katıl!
 Eğer projelerimle ilgileniyorsan veya birlikte bir şeyler yapmak istersen, bana ulaşmaktan çekinme!
+
