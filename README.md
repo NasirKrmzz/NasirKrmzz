@@ -1,12 +1,12 @@
 # Merhaba! 👋 Ben Nasır Kırmızı 
 
-Ben bir yazılım geliştiriciyim ve teknolojiyle uğraşmayı seviyorum. GitHub sayfamda yaptığım çalışmaları bulabilirsin!
+Ben bir yazılım geliştiriciyim ve teknolojiyle ve güncel araçlar ile uğraşmayı seviyorum. GitHub sayfamda yaptığım çalışmaları bulabilirsin!
 
 ## Hakkımda
 - 🌍 **Türkiye'de yaşıyorum.**
 - 🎓 **Uludağ Üniversitesi Bilgisayar Programcılığı Öğrencisiyim.**
-- 🖥️ **Backend Developer olmak için çabalayan bir yazılım geliştiriciyim.**
-- 💻 İlgi Alanları: Yazılım geliştirme ve açık kaynak projeler
+- 🖥️ **full stack olmak için çabalayan bir yazılım geliştiriciyim.**
+- 💻 İlgi Alanları: Yazılım geliştirme ve açık kaynak projeler hacktonlar .
 
 <div align="right">
   <a href="mailto:nasirkrmzz@protonmail.com">
