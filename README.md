@@ -1,13 +1,17 @@
 # Merhaba! 👋 Ben Nasır Kırmızı 
-
-Ben bir yazılım geliştiriciyim ve teknolojiyle ve güncel araçlar ile uğraşmayı seviyorum. GitHub sayfamda yaptığım çalışmaları bulabilirsin!
-
+I'm a developer passionate about shaping the digital world through code, design, and innovation.
+I work on projects that bring together Blockchain, Web3, AI, and automation technologies to create smarter digital experiences. 🚀
+You can check out my latest experiments and builds here on GitHub! ⚡
 ## Hakkımda
-- 🌍 **Türkiye'de yaşıyorum.**
-- 🎓 **Uludağ Üniversitesi Bilgisayar Programcılığı Öğrencisiyim.**
-- 🖥️ **full stack olmak için çabalayan bir yazılım geliştiriciyim.**
-- 💻 İlgi Alanları: Yazılım geliştirme ve açık kaynak projeler hacktonlar .
+- 🌍 Based in Turkey.
 
+- 🎓 Graduated from Uludağ University, Computer Programming.
+
+- 💻 Developer exploring Blockchain, Web3, and AI-powered solutions.
+
+- 🖥️ Focused on Web Development and UI/UX Design.
+
+- ⚡ Interested in: open-source projects, hackathons, and emerging technologies.
 <div align="right">
   <a href="mailto:nasirkrmzz@protonmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
