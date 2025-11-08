@@ -1,8 +1,8 @@
-# Merhaba! 👋 Ben Nasır Kırmızı 
+# Hello! 👋 Ben Nasır Kırmızı 
 I'm a developer passionate about shaping the digital world through code, design, and innovation.
 I work on projects that bring together Blockchain, Web3, AI, and automation technologies to create smarter digital experiences. 🚀
 You can check out my latest experiments and builds here on GitHub! ⚡
-## Hakkımda
+## About Me
 - 🌍 Based in Turkey.
 
 - 🎓 Graduated from Uludağ University, Computer Programming.
@@ -21,8 +21,7 @@ You can check out my latest experiments and builds here on GitHub! ⚡
   </a>
 </div>
 
-  ## 🌐 Kişisel Web Sitem
-  
+  ## 🌐 MY WEB SİTE
 <div align="center">
 
 <a href="https://nasirkrmzz.github.io/NasirDev/" target="_blank">
@@ -69,6 +68,6 @@ You can check out my latest experiments and builds here on GitHub! ⚡
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-## Bana Katıl!
-Eğer projelerimle ilgileniyorsan veya birlikte bir şeyler yapmak istersen, bana ulaşmaktan çekinme!
+## Join Me!
 
+If you're interested in my projects or want to collaborate on something, feel free to reach out! 🚀
